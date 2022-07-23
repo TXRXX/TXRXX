@@ -77,7 +77,7 @@ const txrxx = {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TXRXX&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TXRXX&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TXRXX&layout=compact)
 
 <!-- </div> -->
 </div>
