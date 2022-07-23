@@ -1,9 +1,6 @@
 
 ## TXRXX's Profile
 
-
----
-
 <br>
 <div class="cent">
 
