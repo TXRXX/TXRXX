@@ -1,45 +1,11 @@
-
-## TXRXX's Profile
-
-<br>
 <div class="cent">
 
-<div class="badges">
-
-</div>
-
-```js
-const txrxx = {
-    personal: {
-        firstName: "Chanon",
-        lastName: "Pakeenuya",
-        age: 21,
-    },
-
-    study: {
-        faculty: "College of Computing",
-        major: "Computer Science",
-        university: "KhonKaen University",
-    },
-    fav: {
-        drink: ["coffee", "beer"]
-    }
-};
-```
+# TXRXX
 <br>
 <br>
 
 [![E-MAIL - p.chanon@kkumail.com](https://img.shields.io/badge/EMAIL-p.chanon%40kkumail.com-blue?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:p.chanon@kkumail.com)
 [![WEBSITE - txrxx.dev](https://img.shields.io/badge/WEBSITE-txrxx.dev-blue?style=for-the-badge&logo=react&logoColor=blue)](https://txrxx.dev)
-
-<br>
-
-![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)
-![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)
-![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
-
-<br>
-
 
 
 <br>
