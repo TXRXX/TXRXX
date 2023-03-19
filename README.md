@@ -14,12 +14,7 @@
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![React](https://img.shields.io/badge/React-black?logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js)
-
-![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![Mongo DB](https://img.shields.io/badge/Mongo_DB-black?logo=mongodb)
 
 <br>
 <br>
